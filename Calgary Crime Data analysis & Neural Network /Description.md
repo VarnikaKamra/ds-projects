@@ -1,4 +1,5 @@
-algary Crime Data Analysis and Neural Network Prediction
+Calgary Crime Data Analysis and Neural Network Prediction
+
 Introduction
 The aim of this project is to analyze and predict crime trends in Calgary using the Crime and Disorder Data provided by the City of Calgary's data website. The dataset spans from 2018 to 2024, detailing the number of crimes occurring each month in various communities. By thoroughly analyzing this data, we seek to understand the underlying patterns and build a neural network model to forecast future crime occurrences.
 
